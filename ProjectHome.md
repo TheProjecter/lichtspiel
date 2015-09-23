@@ -1,0 +1,2 @@
+LichtSpiel will be a simple framework based on SFML which provides standard tools to write 2d games.
+The aim is that developers dont have to write the basics of game programming over and over again. So LichtSpiel provides a structure that developers just
